@@ -245,5 +245,5 @@ Video convertido a formato mp4: tmp
 
 El patrón Facade es una solución ideal cuando necesitas simplificar la interacción con sistemas complejos o bibliotecas. En este proyecto, fue usado para encapsular la lógica de conversión de video, haciendo que el cliente solo tenga que interactuar con la fachada sin preocuparse por los detalles internos. Esto permite escalabilidad, modularidad y facilidad de mantenimiento en sistemas grandes.
 
-Lea más acerca del (Patrón Facade y las interfaces de grano grueso para sistemas distribuidos.)[https://pearblog.hashnode.dev/fachada-remota-interfaces-de-grano-grueso-para-sistemas-distribuidos]
+Lea más acerca del [Patrón Facade y las interfaces de grano grueso para sistemas distribuidos.](https://pearblog.hashnode.dev/fachada-remota-interfaces-de-grano-grueso-para-sistemas-distribuidos)
 
